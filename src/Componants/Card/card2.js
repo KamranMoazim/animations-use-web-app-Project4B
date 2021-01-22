@@ -1,6 +1,6 @@
 import React from 'react'
 import useWebAnimations from "@wellyshen/use-web-animations";
-import image from '../../images/2 SCENE.svg'
+// import image from '../../images/2 SCENE.svg'
 import ScrollAnimation from 'react-animate-on-scroll';
 function Card2() {
 
@@ -20,7 +20,7 @@ function Card2() {
 
             <div className="leftDiv">
                 <div ref={ref}>
-                    <img src={image} alt="image" />
+                    <img src='../../images/2 SCENE.svg' alt="" />
                 </div>
             </div>
 
