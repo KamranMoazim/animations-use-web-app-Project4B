@@ -30,7 +30,6 @@ function Card2() {
                 <p className="description animate__animated animate__slideInDown">Formal education occurs in a structured environment whose explicit purpose is teaching students. Usually, formal education takes place in a school environment with classrooms of multiple students learning together with a trained, certified teacher of the subject.</p>
             </ScrollAnimation>
             </div>
-
             <div className="rightDiv animate__animated ">
                 <div ref={ref}>
                     <img src={image} alt="image" />
